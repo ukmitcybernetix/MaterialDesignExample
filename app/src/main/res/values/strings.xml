@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyMaterialDesign</string>
     <string name="logo">Logo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
